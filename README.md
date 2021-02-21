@@ -45,6 +45,9 @@
    </td>
   </tr>
   
+  <br />
+  <br />
+  
   <tr>
    <td align="center" width="20%">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

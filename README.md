@@ -6,19 +6,22 @@
  
  <h2> Skills: </h2>
 <table>
-<tbody>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</td>
-</tr>
-</tbody>
+ <tbody>
+ <tr>
+  <td align="center" width="20%">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </td>
+  <td align="center" width="20%">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </td>
+  <td align="center" width="20%">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </td>
+  <td align="center" width="20%">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </td>
+ </tr>
+ </tbody>
 </table>
 
 

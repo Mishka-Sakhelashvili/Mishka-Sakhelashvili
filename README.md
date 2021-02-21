@@ -7,20 +7,90 @@
  <h2> Skills: </h2>
 <table>
  <tbody>
- <tr>
-  <td align="center" width="20%">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </td>
-  <td align="center" width="20%">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </td>
-  <td align="center" width="20%">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </td>
-  <td align="center" width="20%">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </td>
- </tr>
+  <tr>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   </td>
+  </tr>
+  
+  <tr>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+   </td>
+  </tr>
+  
+  <tr>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+   </td>
+  </tr>
+  
+  
+  <tr>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
+   </td>
+   <td align="center" width="20%">
+    
+   </td>
+   <td align="center" width="20%">
+   
+   </td>
+  </tr>
  </tbody>
 </table>
 

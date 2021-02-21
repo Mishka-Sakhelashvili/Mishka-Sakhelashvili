@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
    </td>
    <td align="center" width="20%">
-    <img src="https://img.shields.io/badge/Less-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=sass&logoColor=white" />
    </td>
    <td align="center" width="20%">
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />

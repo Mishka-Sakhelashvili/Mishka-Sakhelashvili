@@ -41,9 +41,8 @@
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
    </td>
    <td align="center" width="20%">
-    
+    <img src="https://img.shields.io/badge/Materialize-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
    </td>
-   
   </tr>
   
   <tr>

@@ -1,8 +1,6 @@
  <h2><i> My <a href="https://github.com/Mishka-Sakhelashvili/All__Projects/blob/main/README.md"> All Projects </a> </i> </h2>
  <hr />
  <br />
- <br />
- 
  
 <h2><i>Skills: </i></h2>
 <table>
@@ -100,8 +98,6 @@
 </table>
 <hr />
 <br />
-<br />
-
 
 <h2><i>Contact Me: </i></h2>
 <a href="mailto:Mishka.Sakhelashvili@gmail.com"

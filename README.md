@@ -1,6 +1,10 @@
- <h2> My <a href="https://github.com/Mishka-Sakhelashvili/All__Projects/blob/main/README.md"> All Projects </a> </h2>
+ <h2><i> My <a href="https://github.com/Mishka-Sakhelashvili/All__Projects/blob/main/README.md"> All Projects </a> </i> </h2>
+ <hr />
+ <br />
+ <br />
  
-<h2> Skills: </h2>
+ 
+<h2><i>Skills: </i></h2>
 <table>
  <tbody>
   <tr>
@@ -21,8 +25,6 @@
    </td>
   </tr
   
-  
- 
   <tr>
    <td align="center" width="20%">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -59,9 +61,6 @@
    </td>
   </tr>
   
-  <br />
-  <br />
-  
   <tr>
    <td align="center" width="20%">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -80,8 +79,6 @@
    </td>
   </tr>
   
-  
-  
   <tr>
    <td align="center" width="20%">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -99,14 +96,13 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    </td>
   </tr>
-  
-  
-  
  </tbody>
 </table>
-
-
 <hr />
+<br />
+<br />
+
+
 <h2><i>Contact Me: </i></h2>
 <a href="mailto:Mishka.Sakhelashvili@gmail.com"
   ><img

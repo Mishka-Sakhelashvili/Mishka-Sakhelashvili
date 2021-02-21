@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
    </td>
    <td align="center" width="20%">
-    <img src="https://img.shields.io/badge/Saga-690?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/reduxSaga-690?style=for-the-badge&logo=redux&logoColor=white" />
    </td>
   </tr>
   
